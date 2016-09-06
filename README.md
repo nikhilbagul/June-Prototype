@@ -6,8 +6,8 @@ Note: This is a development build. The game is solely meant for educational and 
 
 Installation instructions :
 
-Download the code repo as .zip file or clone it on your machine.
-Download and install Unity from the official Unity website
-Open Unity and select open project option.
-Point the new project to the repository we downloaded/cloned earlier.
-Hit Play
+1. Download the code repo as .zip file or clone it on your machine.
+2. Download and install Unity from the official Unity website.
+3. Open Unity and select open project option.
+4. Point the new project to the repository we downloaded/cloned earlier.
+5. Hit Play
